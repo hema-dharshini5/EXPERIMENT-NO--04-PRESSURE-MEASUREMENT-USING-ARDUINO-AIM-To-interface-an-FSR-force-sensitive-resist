@@ -130,7 +130,8 @@ if(m>5)
 
 
 ### Schematic Diagram:
-![Screenshot 2024-03-04 180244](https://github.com/hema-dharshini5/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/147117728/a8590133-584e-4a46-8631-adea49be385a)
+![exp3](https://github.com/hema-dharshini5/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/147117728/ebebd4da-647f-47d3-b316-6af8a90dc95b)
+
 
 
 ### Population Standard Deviation
